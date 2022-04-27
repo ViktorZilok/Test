@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="OmwC6JxJdjR2nZ0buQf_" name="Страница 1">
-        <mxGraphModel dx="665" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="847" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -15,8 +15,8 @@
                         <mxPoint x="290" y="330" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="3" value="print array1 = [&quot;hello&quot;, &quot;2&quot;, &quot;world&quot;, &quot;:-)&quot;]&lt;br&gt;print array2 = [&quot;1234&quot;, &quot;1567&quot;, &quot;-2&quot;, &quot;computer since&quot;]&lt;br&gt;print array3 = [&quot;Russia&quot;, &quot;Denmark&quot;, &quot;Kazan&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-                    <mxGeometry x="136.25" y="160" width="307.5" height="80" as="geometry"/>
+                <mxCell id="3" value="print array1 = [&quot;hello&quot;, &quot;2&quot;, &quot;world&quot;, &quot;:-)&quot;]&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="136.25" y="160" width="307.5" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="12">
                     <mxGeometry relative="1" as="geometry"/>
@@ -89,7 +89,7 @@
                         <mxPoint x="720" y="490" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="array = newArray [temporal]&lt;br&gt;temoral = 0&lt;br&gt;j = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="26" value="array = newArray [temporal];&lt;br&gt;temoral = 0;&lt;br&gt;j = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="510" y="460" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
